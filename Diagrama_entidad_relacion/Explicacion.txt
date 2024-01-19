@@ -1,0 +1,4 @@
+La tabla de Student se relaciona 1:1 con la tabla de Bootcamp porque un estudiante solo puede hacer un bootcamp a la vez, la tabla Teacher 
+se relaciona 1:1 con la tabla de Module ya que los profesores en un bootcamp imparten un modulo a la vez. La tabla de Bc_Module es una tabla 
+auxiliar creada ya que a la hora de relacionar Bootcamp con Module existe una relacion n:m ya que en varios bootcamps pueden haber los mismos modulos de
+impartición
